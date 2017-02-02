@@ -3,7 +3,7 @@
 TeamBoard is a simple Paint application written in Java that works over the network, and supports multiple users drawing concurrently while keeping consistency.
 
 ## Download
-[Download from my site](http://downloads.adolfintel.com/geth.php?r=teamboard-bin) (Requires [Java](http://java.com))
+[Download from my site](http://downloads.fdossena.com/geth.php?r=teamboard-bin) (Requires [Java](http://java.com))
 
 ## Usage
 If you want to play with the code, just import the projects into Netbeans
@@ -12,8 +12,8 @@ If you want to play with the code, just import the projects into Netbeans
 Multiplaform, Java SE 7
 
 ## Screenshots
-![Screenshot](http://adolfintel.com/teamboard/server1.png)
-![Screenshot](http://adolfintel.com/teamboard/client1.png)
+![Screenshot](http://fdossena.com/teamboard/server1.png)
+![Screenshot](http://fdossena.com/teamboard/client1.png)
 
 ## License
 Copyright (C) 2015 Federico Dossena
